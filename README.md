@@ -19,7 +19,7 @@ powergrid_state_estimation.m
 ```
 
 
-To quickly understand the project, we present a simple sample program. Please run
+To quickly understand the project, we present a simple example. Please run
 ```
 example.m
 ```
