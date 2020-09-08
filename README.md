@@ -25,6 +25,13 @@ example.m
 ```
 
 
+Since the project contains a certain amount of computation error, we also provide earlier versions of the code in
+```
+ealry_version/StateEstimation.m
+```
+even though the coding of this script is really really really really really awful 🤦‍♂️🤦‍♂️🤦‍♂️
+
+
 For any problems, please contact us at cyychenyaoyu@163.com
 
 Copyright (c) 2020 Yaoyu Chen
