@@ -19,19 +19,19 @@ powergrid_state_estimation.m
 ```
 
 
-To quickly understand the project, we present a simple example. Please run
+<br>To quickly understand the project, we present a simple example. Please run
 ```
 example.m
 ```
 
 
-Since the project contains a certain amount of computation error, we also provide earlier versions of the code in
+<br>Since the project contains a certain amount of computation error, we also provide earlier versions of the code in
 ```
 ealry_version/StateEstimation.m
 ```
 even though the coding of this script is really really really really really awful 🤦‍♂️🤦‍♂️🤦‍♂️
 
 
-For any problems, please contact us at cyychenyaoyu@163.com
+<br>For any problems, please contact us at cyychenyaoyu@163.com
 
 Copyright (c) 2020 Yaoyu Chen
